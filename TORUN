@@ -1,7 +1,0 @@
-
-##In the terminal of the project path:
-1. json-server --watch db.json --port 9000 
-
-2. npm run start ==> copy the path of this output in the browser
-
-
