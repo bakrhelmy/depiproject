@@ -48,4 +48,16 @@
     border-radius: 8px;
     text-align: center;
   }
+
+.icon {
+  font-size: 24px;
+  color: #098d85;
+  cursor: pointer;
+}
+
+.side-icon {
+  display: flex;
+  align-items: center;
+}
+
   
